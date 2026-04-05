@@ -64,3 +64,5 @@
 
 ![alt text](Pictures/pic012.jpg)
 
+
+[Ссылка на пространство, где выполнялось задание](https://antonshcherbatykh2000.kaiten.ru/p/799051d4-fea4-47e8-a81b-92d4bef70fa2)
