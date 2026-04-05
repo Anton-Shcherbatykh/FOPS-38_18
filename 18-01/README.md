@@ -45,7 +45,19 @@
 3. Создание задачи по Backend
 
 - Создайте две задачи в Backlog доске, например «Backend — Integration with YandexPay».
+
+![alt text](Pictures/pic09.jpg)
+
 - Добавьте дочернюю задачу в задачу «Поправить bug на Backend», назовите её «Update API Endpoint for Improved Error Handling», получившуюся подзадачу переместите в колонку «Готово для тестирования».
 - Переместите новую дочернюю задачу в колонку «В работе» и добавьте комментарий «Update the API endpoint to enhance error handling mechanisms.» После добавьте трудозатраты (4ч) и переместите задачу в колонку «Готово для тестирования».
+
+![alt text](Pictures/pic010.jpg)
+
 - В новой колонке «Готово для тестирования» добавьте следующий комментарий «All tests passed successfully» и трудозатраты (1ч). Переместите в колонку «Готово».
+
+![alt text](Pictures/pic011.jpg)
+
 - Завершите задачу/карточку «Поправить bug на Backend» переместив в колонку «Готово».
+
+![alt text](Pictures/pic012.jpg)
+
