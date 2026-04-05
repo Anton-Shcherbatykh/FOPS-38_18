@@ -12,12 +12,34 @@
 2. Создание задачи по Frontend
 
 - Создайте задачу в Backlog доске, например «Frontend Bug»
+
+![alt text](Pictures/pic01.jpg)
+
 - Переместите все задачи на доску Sprint, в колонку Бэклог спринта.
+
+![alt text](Pictures/pic02.jpg)
+
 - Переместите одну из задач в колонку работа и добавьте там комментарий по желанию, например, «Frontend Bug» -> «Баг будет устранён путём обновления библиотеки в микрофронтенде».
+
+![alt text](Pictures/pic03.jpg)
+
 - Создайте в выбранной задаче дочернюю карточку в Backlog доске с названием «Обновить библиотеку» «[LIB-456] Upgrade Material-UI from v4.12.3 to v5.0.0 in product-details microfrontend to resolve layout bugs»
+
+![alt text](Pictures/pic04.jpg)
+
 - Переместите новую карточку в Бэклог Спринта, потом «В работе», в колонке «В работе» добавьте комментарий, например, «Library Material-UI updated to v5.0.0», также добавьте трудозатраты в новой задаче — 1ч.
+
+![alt text](Pictures/pic05.jpg)
+
+![alt text](Pictures/pic06.jpg)
+
 - Переместите дочернюю задачу в колонку «Готово» на доске Sprint.
+
+![alt text](Pictures/pic08.jpg)
+
 - Переместите родительскую задачу «Поправить bug на Frontend» в колонку «Готово» на доске Sprint, не забудьте списать потраченное время 0,2 ч.
+
+![alt text](Pictures/pic07.jpg)
 
   
 3. Создание задачи по Backend
