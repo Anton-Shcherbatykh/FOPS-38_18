@@ -13,3 +13,21 @@
 ![alt text](Pictures/pic03.jpg)
 
 ![alt text](Pictures/pic06.jpg)
+
+---
+
+### Основная часть
+
+1. Создал новый проект в teamcity на основе fork.
+2. Сделал autodetect конфигурации. Тип проекта определил как Maven
+
+![alt text](Pictures/pic07.jpg)
+
+3. Запускаю сборку, сборка выполнена успешно.
+
+![alt text](Pictures/pic09.jpg)
+![alt text](Pictures/pic08.jpg)
+
+4. 
+
+
