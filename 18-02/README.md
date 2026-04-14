@@ -28,6 +28,11 @@
 ![alt text](Pictures/pic09.jpg)
 ![alt text](Pictures/pic08.jpg)
 
-4. 
+4. Поменял условия сборки: если сборка по ветке master, то должен происходит mvn clean deploy, иначе mvn clean test
+
+![alt text](Pictures/pic010.jpg)
+
+
+5. 
 
 
