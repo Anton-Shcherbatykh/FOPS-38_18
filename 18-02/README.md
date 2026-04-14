@@ -11,3 +11,5 @@
 ![alt text](Pictures/pic02.jpg)
 
 ![alt text](Pictures/pic03.jpg)
+
+![alt text](Pictures/pic06.jpg)
