@@ -32,7 +32,8 @@
 
 ![alt text](Pictures/pic010.jpg)
 
+5. Загрузил settings.xml в набор конфигураций maven в teamcity, предварительно записав туда креды для подключения к Nexus
 
-5. 
+6. 
 
 
